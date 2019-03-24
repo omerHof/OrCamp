@@ -16,6 +16,6 @@ public class Maze {
 
     }
     public void stam(){}
-    
+
 
 }
