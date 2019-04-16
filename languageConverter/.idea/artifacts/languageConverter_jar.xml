@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="languageConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/languageConverter_jar</output-path>
+    <root id="archive" name="languageConverter.jar">
+      <element id="module-output" name="languageConverter" />
+    </root>
+  </artifact>
+</component>
