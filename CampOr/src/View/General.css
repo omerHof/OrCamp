@@ -1,0 +1,23 @@
+Label{
+    text-align: right;
+    direction: rtl;
+}
+
+Button{
+    text-align: right;
+    direction: rtl;
+}
+
+.root {
+    -fx-background-image: url("clouds.jpg");
+}
+
+.text-field{
+    -fx-alignment: top-right;
+}
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}

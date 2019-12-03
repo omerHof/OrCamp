@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nextWord:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nextWord_jar</output-path>
+    <root id="archive" name="nextWord.jar">
+      <element id="module-output" name="nextWord" />
+    </root>
+  </artifact>
+</component>
